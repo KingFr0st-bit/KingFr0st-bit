@@ -14,7 +14,6 @@
 <a href="www.linkedin.com/in/davi-ribeiro-nolasco-sales-655771233" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/KingFr0st-bit/KingFr0st-bit/blob/output/github-contribution-grid-snake.svg)
 <!--
 **KingFr0st-bit/KingFr0st-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
