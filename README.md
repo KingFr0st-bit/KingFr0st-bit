@@ -1,7 +1,7 @@
 # :shipit: Hello! Welcome to my Github profile. :shipit:
 ## My name is Davi Sales and my nickname is "King"!
 # At the moment I still don't work in the programming area, but I'm taking javascript classes
-# :high_brightness: I take a course at Alura, and currently a front-end course
+# :high_brightness: I take a course at Alura, and currently a back-end course
 ## :mortar_board: I am learning 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
